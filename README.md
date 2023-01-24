@@ -1,5 +1,5 @@
 
-   ![](./img/1.png)
+   ![](./img/00.png)
 
      Synchronous JavaScript: As the name suggests synchronous means to be in a sequence, i.e. 
      
