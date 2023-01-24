@@ -19,9 +19,9 @@
      
      finishes the current one
 
-   ![](./img/4.png);
+   ![](./img/4.PNG);
 
-   ![](./img/5.png)
+   ![](./img/5.PNG)
 
      Differences. 
 
@@ -47,7 +47,7 @@
      
      executes the code only once.   Syntaxs:
 
-   ![](./img/6.png)
+   ![](./img/6.PNG)
 
           Its parameters are:
 
@@ -56,9 +56,9 @@
               -- milliseconds - the time after which the function is executed
 
 
-   ![](./img/7.png);
+   ![](./img/7.PNG);
 
-   ![](./img/8.png)
+   ![](./img/8.PNG)
 ### setInterval()
 
      The setInterval() method helps us to repeatedly execute a function after a fixed delay. It 
@@ -67,7 +67,7 @@
      
      stops further repeated execution of the function. 
 
-   ![](./img/9.png)
+   ![](./img/9.PNG)
 
      where,
           
@@ -91,9 +91,9 @@
          
          3. Promise.then() accepts a function that runs when the Promise resolves
 
-   ![](./img/10.png);
+   ![](./img/12.PNG);
 
-   ![](./img/11.png);
+   ![](./img/13.PNG);
 
 ### Promise()
 
@@ -102,7 +102,9 @@
      used to find out if the asynchronous operation is successfully completed or not.
      
      Syntax:
-img 14
+
+   ![](./img/14.PNG); 
+
      States of a Promise
  
          Pending - When you newly create a promise it will be pending
@@ -115,9 +117,10 @@ img 14
      
      reject should be called if the task has failed.
 
-img 15
+   ![](./img/15.PNG);
 
 ### API
+
      API (Application Programming Interface) can be considered as a set of rules that are 
      
      shared by a particular service. These rules determine in which format and with which 
@@ -146,22 +149,25 @@ img 15
          
          can, for example, add a new ticket to your inventory.
 
-img 16
+   ![](./img/16.PNG);
 
          2. GET: Read action. Retrieves information (like a list of items). This is the most 
          
          common type of request. Using it, we can get the data we are interested in from those 
          
          that the API is ready to share.
-img 17
+
+   ![](./img/17.PNG);
          
          3. PUT: Update action. Changes existing information. For example, using this type of 
          
          request, it would be possible to change the color or value of an existing product.
-img 18
+
+   ![](./img/18.PNG);
 
          4.DELETE: Delete action. Deletes existing information.
-img 19
+
+   ![](./img/19.PNG);
 
 ### fetch()
 
@@ -171,4 +177,4 @@ img 19
      
      parameter, the URL to request, and returns a promise
 
-img 20
+   ![](./img/20.PNG);
