@@ -7,11 +7,11 @@
      
      wait for the earlier statement to get executed.
 
-   ![](./img/2.png)
+   ![](./img/2.PNG)
 
       Autput:
 
-   ![](./img/3.png)
+   ![](./img/3.PNG)
 
      Asynchronous JavaScript: Asynchronous code allows the program to be executed immediately 
      
